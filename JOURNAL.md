@@ -12,3 +12,11 @@ designing custom hardware and firmware
 
 <img width="1915" height="797" alt="image" src="https://github.com/user-attachments/assets/f629c13c-273c-4caa-ab2f-9388725f5263" />
 
+Materials I will need
+- microcontroller
+- switches
+- Hall effect sensors
+- rotary encoder
+- display screen
+- USB-C port
+- component casing
