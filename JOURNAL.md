@@ -20,3 +20,11 @@ Materials I will need
 - display screen
 - USB-C port
 - component casing
+
+#  November 16: gathered parts for my KiCAD schematic
+
+Researched all the components I will need for the SayoDevice
+Learned how magnetic switches differ greatly from mechanical switches
+Began working on the KiCAD schematic; will begin wiring the next day
+
+<img width="1917" height="1132" alt="Screenshot 2026-11-16 214539" src="https://github.com/user-attachments/assets/66278197-fa70-4cf1-9115-96f229639f28" />
