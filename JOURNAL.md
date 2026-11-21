@@ -28,3 +28,8 @@ Learned how magnetic switches differ greatly from mechanical switches
 Began working on the KiCAD schematic; will begin wiring the next day
 
 <img width="1917" height="1132" alt="Screenshot 2026-11-16 214539" src="https://github.com/user-attachments/assets/66278197-fa70-4cf1-9115-96f229639f28" />
+
+# November 20: got every component needed, started to wire
+
+Added more components into my KiCAD schematic, including small parts like transistors and 
+power flags
