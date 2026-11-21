@@ -32,4 +32,7 @@ Began working on the KiCAD schematic; will begin wiring the next day
 # November 20: got every component needed, started to wire
 
 Added more components into my KiCAD schematic, including small parts like transistors and 
-power flags
+power flags, and wired the usb c receptacle on my schematic.
+
+<img width="1015" height="617" alt="Screenshot 2026-11-20 211012" src="https://github.com/user-attachments/assets/9d437702-3625-4e83-b9e3-ed9ad65ae500" />
+
